@@ -19,3 +19,10 @@ Descripción de que es lo que hizo o alcanzo desarrollar en la práctica.
 
 ### Captura 2 – Tamaño del árbol
 ![Resultado del método size](assets/cap2.png)
+
+
+### Captura 3 – programa
+![Ejecución en consola](assets/cap3.png)
+
+### Captura 4 – Ejecución del programa
+![Ejecución en consola](assets/cap4.png)
